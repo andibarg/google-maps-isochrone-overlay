@@ -14,7 +14,7 @@ zoom = 10
 opacity = 0.5
 
 # Text file with google maps API key
-apipath = None
+apipath = 'apikey.txt'
 
 ###############################
 # Main script
