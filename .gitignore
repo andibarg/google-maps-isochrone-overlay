@@ -1,5 +1,6 @@
 # Mac meta data file
 .DS_Store
+data/.DS_Store
 
 # API key file
 apikey.txt
