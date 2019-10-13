@@ -32,5 +32,5 @@ The following figure shows an isochrone overlay to my current work place via pub
 ### Similar work
 
 - iso4app (http://www.iso4app.net/) 
-- traveltimeplatform (https://www.traveltimeplatform.com/), 
+- traveltimeplatform (https://www.traveltimeplatform.com/) 
 - https://github.com/dugwood/isochrone-isodistance-with-google-maps
