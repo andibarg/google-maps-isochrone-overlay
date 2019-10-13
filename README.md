@@ -27,6 +27,8 @@ Finally, the script '3_get_html.py' creates an html file that shows the isochron
 
 The following figure shows an isochrone overlay to my current work place via public transportation in Copenhagen, Denmark. The arrival time is 2019/10/21 at 9am. The example uses coastline polygons for Zealand, Denmark extracted from the EEA dataset mentioned above.
 
+![Screenshot](data/overlay_screenshot.png)
+
 ### Similar work
 
 - iso4app (http://www.iso4app.net/) 
